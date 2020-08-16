@@ -1,0 +1,2 @@
+Hola, nos encontramos dentro de un archivo .txt
+Hola, nos encontramos en el curso Profesional de Go
